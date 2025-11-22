@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Kiloan ADM V1</h1>
 
-  ![Kiloan-APU](images/cover-foto.png)
+  ![Kiloan-ADM](images/cover-foto.png)
 
   <p align="center">
   <a href="https://blueprint.hackclub.com/">
