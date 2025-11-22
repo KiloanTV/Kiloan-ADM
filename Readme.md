@@ -4,7 +4,7 @@
   ![Kiloan-APU](images/cover-foto.png)
 
   <p align="center">
-  <a href="https://hackclub.com/highway">
+  <a href="https://blueprint.hackclub.com/">
     <img alt="Funded by Hack Club" src="https://img.shields.io/badge/Hack_Club-Funded-ec3750?style=for-the-badge&logo=hackclub&logoColor=ec3750"></img>
   </a>
   </p>
